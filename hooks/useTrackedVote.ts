@@ -6,15 +6,18 @@ import { useAccount, usePublicClient, useWriteContract } from "wagmi";
 import { basePollLiteContract } from "@/lib/contracts";
 import { trackTransaction } from "@/utils/track";
 
-const BUILDER_CODE = "BUILDER_CODE_PLACEHOLDER";
+const BUILDER_CODE = "bc_ckvrsfca";
+const BUILDER_DATA_SUFFIX_ENCODED =
+  "0x62635f636b7672736663610b0080218021802180218021802180218021";
 // 这里替换为真实 Builder Code
 export const DATA_SUFFIX = (() => {
   try {
-    return Attribution.toDataSuffix({
+    const computed = Attribution.toDataSuffix({
       codes: [BUILDER_CODE]
     });
+    return computed || BUILDER_DATA_SUFFIX_ENCODED;
   } catch {
-    return "0x";
+    return BUILDER_DATA_SUFFIX_ENCODED;
   }
 })();
 
