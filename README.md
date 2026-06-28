@@ -16,3 +16,11 @@ Because the original project description is minimal, the instructions below are 
 
 - BasePoll Lite mini app project structure.
 - Simple repository setup for local development.
+- Clear starting point for contributors and maintainers.
+- Room for project-specific configuration, scripts, and deployment notes.
+
+## Repository
+
+Clone the repository from GitHub:
+
+```bash
