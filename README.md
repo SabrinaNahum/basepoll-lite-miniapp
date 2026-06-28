@@ -76,3 +76,12 @@ If those commands are not available, open `package.json` and review the `scripts
 ## Development Workflow
 
 A typical workflow is:
+
+1. Clone the repository.
+2. Install dependencies.
+3. Start the local development server.
+4. Make changes in a feature branch.
+5. Test the changes locally.
+6. Commit and push the updates.
+
+## Project Structure
