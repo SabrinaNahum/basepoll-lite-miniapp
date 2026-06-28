@@ -165,3 +165,12 @@ Suggested contribution steps:
 ## Notes
 
 - Keep documentation updated as the project evolves.
+- Prefer small, readable commits.
+- Add setup details when new dependencies or configuration steps are introduced.
+- Avoid committing generated files unless they are required by the project.
+
+## License
+
+No license information was provided in the original README.
+
+Add a license section here if a license is selected for the project.
