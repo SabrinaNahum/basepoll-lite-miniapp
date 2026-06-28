@@ -32,3 +32,13 @@ Then move into the project directory:
 ```bash
 cd basepoll-lite-miniapp
 ```
+
+## Setup
+
+Install the dependencies using the package manager used by the project.
+
+If the repository includes a `package-lock.json` file, use:
+
+```bash
+npm install
+```
