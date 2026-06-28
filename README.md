@@ -7,3 +7,12 @@ Repository: https://github.com/SabrinaNahum/basepoll-lite-miniapp.git
 ## Overview
 
 `basepoll-lite-miniapp` is the repository for the BasePoll Lite mini app.
+
+This README provides a practical starting point for installing, running, and working with the project locally.
+
+Because the original project description is minimal, the instructions below are intentionally general and should be adjusted if the repository includes framework-specific documentation or scripts.
+
+## Features
+
+- BasePoll Lite mini app project structure.
+- Simple repository setup for local development.
