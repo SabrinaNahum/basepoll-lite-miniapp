@@ -68,3 +68,11 @@ npm run dev
 or:
 
 ```bash
+npm start
+```
+
+If those commands are not available, open `package.json` and review the `scripts` section for the correct commands.
+
+## Development Workflow
+
+A typical workflow is:
