@@ -24,3 +24,11 @@ Because the original project description is minimal, the instructions below are 
 Clone the repository from GitHub:
 
 ```bash
+git clone https://github.com/SabrinaNahum/basepoll-lite-miniapp.git
+```
+
+Then move into the project directory:
+
+```bash
+cd basepoll-lite-miniapp
+```
