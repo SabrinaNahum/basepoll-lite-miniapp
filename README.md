@@ -155,3 +155,13 @@ Include details such as:
 Contributions should be made through clear, focused changes.
 
 Suggested contribution steps:
+
+1. Create a new branch.
+2. Make the required changes.
+3. Verify the project still runs locally.
+4. Commit with a descriptive message.
+5. Open a pull request for review.
+
+## Notes
+
+- Keep documentation updated as the project evolves.
