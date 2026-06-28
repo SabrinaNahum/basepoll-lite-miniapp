@@ -112,3 +112,11 @@ Then update the values as needed for your local setup.
 Do not commit local environment files that contain private configuration.
 
 ## Testing
+
+If the project includes tests, run the test command listed in `package.json`.
+
+Common examples include:
+
+```bash
+npm test
+```
