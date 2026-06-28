@@ -104,3 +104,11 @@ If the project requires environment variables, create a local environment file b
 For example:
 
 ```bash
+cp .env.example .env.local
+```
+
+Then update the values as needed for your local setup.
+
+Do not commit local environment files that contain private configuration.
+
+## Testing
