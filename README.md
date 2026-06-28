@@ -94,3 +94,13 @@ Common directories may include:
 - `public/` for static assets.
 - `components/` for reusable interface elements.
 - `pages/` or `app/` for application routes, depending on the framework.
+
+Update this section as the project structure becomes more defined.
+
+## Configuration
+
+If the project requires environment variables, create a local environment file based on any example file included in the repository.
+
+For example:
+
+```bash
