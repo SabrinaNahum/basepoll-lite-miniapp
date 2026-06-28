@@ -130,3 +130,11 @@ npm run test
 If no test command is available, add testing instructions here when a test setup is introduced.
 
 ## Build
+
+If the project includes a production build script, run:
+
+```bash
+npm run build
+```
+
+Use the equivalent command for the package manager selected by the project.
