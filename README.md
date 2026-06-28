@@ -120,3 +120,13 @@ Common examples include:
 ```bash
 npm test
 ```
+
+or:
+
+```bash
+npm run test
+```
+
+If no test command is available, add testing instructions here when a test setup is introduced.
+
+## Build
