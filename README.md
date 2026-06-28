@@ -60,3 +60,11 @@ pnpm install
 After installing dependencies, check the project scripts in `package.json`.
 
 Common development commands may include:
+
+```bash
+npm run dev
+```
+
+or:
+
+```bash
