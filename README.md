@@ -138,3 +138,13 @@ npm run build
 ```
 
 Use the equivalent command for the package manager selected by the project.
+
+## Deployment
+
+Deployment instructions should be added once the hosting target and release process are defined.
+
+Include details such as:
+
+- Required build command.
+- Required output directory.
+- Required environment variables.
