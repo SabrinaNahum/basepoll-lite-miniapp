@@ -42,3 +42,11 @@ If the repository includes a `package-lock.json` file, use:
 ```bash
 npm install
 ```
+
+If the repository includes a `yarn.lock` file, use:
+
+```bash
+yarn install
+```
+
+If the repository includes a `pnpm-lock.yaml` file, use:
