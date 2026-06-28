@@ -85,3 +85,12 @@ A typical workflow is:
 6. Commit and push the updates.
 
 ## Project Structure
+
+The exact structure depends on the files included in the repository.
+
+Common directories may include:
+
+- `src/` for application source code.
+- `public/` for static assets.
+- `components/` for reusable interface elements.
+- `pages/` or `app/` for application routes, depending on the framework.
