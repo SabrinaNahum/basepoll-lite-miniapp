@@ -50,3 +50,13 @@ yarn install
 ```
 
 If the repository includes a `pnpm-lock.yaml` file, use:
+
+```bash
+pnpm install
+```
+
+## Usage
+
+After installing dependencies, check the project scripts in `package.json`.
+
+Common development commands may include:
