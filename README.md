@@ -148,3 +148,10 @@ Include details such as:
 - Required build command.
 - Required output directory.
 - Required environment variables.
+- Any platform-specific configuration.
+
+## Contributing
+
+Contributions should be made through clear, focused changes.
+
+Suggested contribution steps:
